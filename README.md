@@ -1,4 +1,4 @@
-# TinyCrayon SDK for iOS
+# TinyCrayon SDK for iOS (by Luna)
 > A smart and easy-to-use image masking and cutout SDK for mobile apps.
 
 [![Website](https://img.shields.io/website/http/tinycrayon.com/.svg)](http://www.tinycrayon.com/)
